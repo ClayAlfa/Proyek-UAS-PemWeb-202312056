@@ -97,7 +97,7 @@
 - **Content:** Feature walkthrough, code overview, and system architecture
 
 ### 🌍 **Live Application**
-- **Hosting URL:** https://x-clay.mangaverse.my.id/(#)
+- **Hosting URL:** https://x-clay.mangaverse.my.id
 - **Test Accounts:** Use demo accounts provided below
 - **Status:** ✅ Online 24/7
 

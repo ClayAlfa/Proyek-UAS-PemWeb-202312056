@@ -184,7 +184,7 @@ For detailed information about this project, please visit the complete documenta
 ### **Database Architecture**
 
 <div align="center">
-  <img src="docs/erd_diagram.png" alt="ERD Diagram" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="docs/er_diagram.png" alt="ERD Diagram" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <p><em>🎯 Entity Relationship Diagram - Bus Management System</em></p>
   <p><sub>Click <a href="docs/DATABASE.md">here</a> for complete database documentation</sub></p>
 </div>

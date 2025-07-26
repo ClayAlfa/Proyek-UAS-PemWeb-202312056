@@ -68,7 +68,7 @@
       </td>
       <td align="center">
         <a href="#" target="_blank">
-          <img src="https://img.icons8.com/nolan/64/domain.png" width="64" height="64"/><br/>
+          <img src="[https://img.icons8.com/nolan/64/domain.png](https://x-clay.mangaverse.my.id/)" width="64" height="64"/><br/>
           <b>🌍 Live Demo</b><br/>
           <sub>Hosted Application</sub>
         </a>
